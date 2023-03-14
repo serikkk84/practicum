@@ -31,7 +31,7 @@
 - *warnings*
 - *sklearn*
 - *catboost*
-- *lightgbm *
+- *lightgbm*
 
 ## Вывод
 
